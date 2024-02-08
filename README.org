@@ -1,0 +1,14 @@
+#+Title: Conky Configuration
+
+This is my conky configuration file.
+
+![My Conky](https://i.imgur.com/m5SspcW.png)
+
+* Installation
+
+#+begin_src bash
+  git clone https://github.com/merazi/conky-config
+  cd conky-config
+  cp conky.conf ~/.config/conky/
+  conky &
+#+end_src
