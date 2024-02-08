@@ -2,7 +2,7 @@
 
 This is my conky configuration file.
 
-![My Conky](https://i.imgur.com/m5SspcW.png)
+<img alt="Screenshot" src="https://i.imgur.com/m5SspcW.png"/>
 
 * Installation
 
